@@ -113,7 +113,7 @@ Furthermore, metrics
 ### 5. Compare with Single Modal & Multi Modal
 
 
-|  | SingleModal (Rgb)| MultiModal (Rgb And Depth |
+|  | SingleModal (Rgb)| MultiModal (Rgb And Depth) |
 | --- | --- | --- |
 | Accuracy | 0.94444 | 0.96296 |
 | Precision | 0.95370 | 0.96732 |
